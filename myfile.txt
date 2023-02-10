@@ -1,0 +1,2 @@
+hi, there..! I am Walead, creating myfile.txt in my firt repository on github and adding through the git bash..
+Good luck, BYE 
